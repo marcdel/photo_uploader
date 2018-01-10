@@ -1,0 +1,6 @@
+<div class="col-lg-6">
+  <div class="form-group">
+    <label for="user_photo">Photo</label>
+    <input class="form-control" id="user_photo" name="user[photo]" type="file">
+  </div>
+</div>
